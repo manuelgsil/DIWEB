@@ -10,9 +10,6 @@ thead{
     font-weight: bold;
 }
 
-.tabla2 tbody tr:first-child td {
-    background-color: initial; /* o el color de fondo predeterminado */
-}
 
 .tabla2 tbody tr:nth-child(odd) td:not(.nopintar) {
     background-color: lightcyan;
